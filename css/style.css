@@ -1,0 +1,28 @@
+body{
+    background-image: url(../img/fondocss.jpeg);
+}
+
+div{
+    width: 250px;
+    height: 250px;
+    border: solid black 1px;
+    float: left;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+#boxa{
+    background-image: url(../img/back_mantel.jpg);
+}
+
+#boxb{
+    background-image: url(../img/back_mantel.jpg);
+    background-clip: content-box;
+}
+
+#boxc{
+    background-image: url(../img/back_mantel.jpg);
+    background-size: 100% 100%;
+}
+
