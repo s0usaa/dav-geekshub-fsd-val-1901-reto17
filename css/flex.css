@@ -1,0 +1,60 @@
+body{
+    background-color: aqua;
+    margin: 0;
+}
+
+.container{
+    height: 100vh;
+    background-color: red;
+}
+
+.def{
+    height: 10vh;
+}
+
+#navbar{
+    background-color: aquamarine;
+    
+}
+
+#main{
+    background-color: blueviolet;
+    height: 80vh;
+    display: flex;
+}
+
+/*color del footer*/
+#footer{
+    background-color: darkgoldenrod;
+    display: flex;
+}
+
+#main-l{
+    background-color: bisque;
+    width: 20vw;
+}
+
+#main-r{
+    background-color: chocolate;
+    width: 80vw;
+}
+
+.footer-def{
+    width: 25vw;
+}
+
+#footer-1{
+    background-color: darkblue;
+}
+
+#footer-2{
+    background-color: darkcyan;
+}
+
+#footer-3{
+    background-color: darkolivegreen;
+}
+
+#footer-4{
+    background-color: darkgray;
+}
